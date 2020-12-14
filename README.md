@@ -14,9 +14,13 @@ For Windows, Python 3.6 was installed with the help of the free version of Anaco
 The libraries required to run this project are:
 
 •	NumPy
+
 •	Pandas 
+
 •	Matplotlib
+
 •	Seaborn
+
 •	Sklearn
 
 ### About Dataset:
