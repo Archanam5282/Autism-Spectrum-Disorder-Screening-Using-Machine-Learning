@@ -6,7 +6,7 @@ Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder in which a perso
 
 Due to the rise in use of machine learning techniques in the research dimensions of medical diagnosis, in this project there is an attempt to try some of the techniques such as Naïve Bayes, KNN, Decision Tree and Random Forest for predicting and analysis of ASD using the behavioural traits. The proposed techniques are evaluated on available dataset from the sources; Kaggle. The obtained dataset related to ASD screening contains a total of 704 instances and 21 attributes. After applying various machine learning techniques and doing some pre-processing like handling missing values and one-hot-encoding, results suggest that Random Forest and Decision Tree prediction models work better on the datasets with higher accuracy of more than 90%. Classifiers like Random forests has a feature_importance_ attribute, which is a function that ranks the importance of features according to the chosen classifier hence the accuracy is more. The results are obtained by using Evaluation technique such as Confusion Matrix and ROC-AUC.
 
-### SYSTEM REQUIREMENTS :
+### System Requirements:
 
 To run this project to perform the machine learning algorithms, below software and libraries are were installed:
 
